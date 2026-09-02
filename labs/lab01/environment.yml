@@ -1,0 +1,14 @@
+name: math124-notebooks
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - jupyterlab
+  - matplotlib
+  - nbconvert
+  - numpy
+  - pandas
+  - plotly
+  - pip:
+      - otter-grader==6.1.6
