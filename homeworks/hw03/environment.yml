@@ -1,0 +1,9 @@
+name: math124-notebooks
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - numpy
+  - plotly
+  - ipywidgets
